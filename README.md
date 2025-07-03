@@ -21,7 +21,7 @@ This is a responsive personal portfolio website featuring a contact form powered
 
 ## 🚀 Live Demo
 
- [🔗 View the site here](https://yourusername.github.io/your-connect-form)
+ [🔗 View the site here](https://pari-gupta0501.github.io/connect-site/feedback.html)
 
 
 # 📁 Folder Structure
